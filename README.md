@@ -1,2 +1,2 @@
 # Projeto Loan Status
- Esse projeto tem como objetivo o tratamento de dados necessários para a previsão do status do empréstimo
+Nesse projeto foi realizada uma análise exploratória para entender os dados e realizar os tratamentos necessários. Além da análise exploratória, foi realizado tratamento de missing, transformação de coluna 'S' e 'N' para binário, transformação das colunas em dummys e a previsão do status do empréstimo com diversos algoritmos, sendo o melhor deles no caso o RandomForestClassifier.
